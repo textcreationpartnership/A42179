@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The groanes and pangues of Tiburne to be delivered of her long expected burthen: that bloudy, monstrous, cruell, and mischievous Parliament, now at Westminster, dissembling with God, the King, the country and city.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42179</idno>
+            <idno type="STC">Wing G2054</idno>
+            <idno type="STC">ESTC R218385</idno>
+            <idno type="EEBO-CITATION">99829986</idno>
+            <idno type="PROQUEST">99829986</idno>
+            <idno type="VID">34433</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42179)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34433)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2030:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The groanes and pangues of Tiburne to be delivered of her long expected burthen: that bloudy, monstrous, cruell, and mischievous Parliament, now at Westminster, dissembling with God, the King, the country and city.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at the Mayors Banqueting house near Tyburne,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>in the yeare of the Saintes feare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Caption title on p. 3 reads: The groanes and pangs of Tyburne, &amp;c.</note>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34433:1" rendition="simple:additions"/>
+            <p>THE GROANES AND PANGUES OF TIBVRNE, To be delivered of her long expected burthen: That bloudy, monſtrous, cruell, and miſchievous Par<g ref="char:EOLhyphen"/>liament, now at Weſtminſter, diſſembling with God, the King, the Country and City.</p>
+            <q>
+               <l>Sad is the time to all thoſe who be</l>
+               <l>Actors and Friends to our iniquity;</l>
+               <l>Diſmall and wofull are the time to thoſe</l>
+               <l>Who joyne with Traytors, Rebels, and oppoſe</l>
+               <l>Their lawfull King, the Prince, and Lawes,</l>
+               <l>Death and ſhame take them their cauſe:</l>
+               <l>And now you ſtanders by ſhall ſee</l>
+               <l>Them take their turnes upon my tree;</l>
+               <l>In order have I ſet my houſe, and theſe</l>
+               <l>Which doe their God, their King, the truth oppoſe,</l>
+               <l>Some in one place as their degree hath been</l>
+               <l>Abettors and maintainers of this ſin</l>
+               <l>Rebellion, Treaſon, Theft, and Blaſphemy,</l>
+               <l>Gentle Spectators, rejoyce to ſee them dy.</l>
+            </q>
+            <p>Printed at the Mayors Banqueting houſe near Tyburne, in the yeare of the Saints feare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Tiburnes_mock_funeral_directions_for_Parliament">
+            <pb facs="tcp:34433:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:34433:2"/>
+            <head>The groanes and pangs of Tyburne, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Tyburne the ancient and metropolitan<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of all England, having a long time weeped and mourned for my due, the Parliament, but now finding (by reaſon of the Stars under which they ſit) that their Glaſſe is runne, and their thred is cut; I have put my houſe in order, and my ſelfe in mour<g ref="char:EOLhyphen"/>ning, to entertaine my long expected Gueſts, upon whom I doe intend to beſtow much coſt at their funerall; and for their ſecurity that I take care of them, let them but enquire whether I have not provided great long pee<g ref="char:EOLhyphen"/>ces of horſedownes bisket, which is made of the beſt hempe thoſe Confectioners could provide, many of them having kept it by them this 7 yeares for my uſe, knowing well what a banquet I ſhould have neede of when it pleaſed their Father Pluto to ſend them to me.</p>
+            <p>And now I ſhall give you a note of the names of all my at<g ref="char:EOLhyphen"/>tendants, and Officers which are to wait upon me that day, and a briefe deſcription of their abilities, and Offices in my Pallace of Tyborne, or my Citty Court at Tower-hill.</p>
+            <p>Firſt I doe appoint my new-come gallant Mr. upſtart <hi>Skip<g ref="char:EOLhyphen"/>pon</hi> with his large Legges porter at my hall doore at Tyborne, becauſe I know he can keepe a doore very well for the cauſe, ſo long as they have money to make a key with, though it be a<g ref="char:EOLhyphen"/>gainſt his Lawfull King, Countrey, and Conſcience, and truly he is very ingenious; that I do intend to ſend him (when my work and ſervice is ended) to <hi>Serberus</hi> to be his Deputy Jaylor, to keepe an accoumpt, and receive money of all his old acquain<g ref="char:EOLhyphen"/>tance and fellow Rebells here, which I am ſure will not be long after him, many of which will be ſo forward to overtake
+<pb n="4" facs="tcp:34433:3"/>him that they will take water and drowne themſelves rather then take my paſſe here at Tyborne under my ſonne <hi>Gregoryes</hi> hands: the man is of knowne fidelity to me ever ſince he cau<g ref="char:EOLhyphen"/>ſed workes to be made about me to deſtroy thoſe which never muſt nor wil be mine, though he hath plundred them of all they had; yet were they ſo honeſt that for one Cavalier that came to me this ſeven yeares there hath 20 Roundheads, and poore men I was glad to ſatisfie their ſtomacks, and ſtop their hungers when he would not give them a penny of their pay which he received, but ſent their moneys to maintaine his wife, and her Leaguer Lads in the Low-Countreys: and truely my ſonne <hi>Gregory</hi> hath cauſe to thanke my cozen <hi>Glyn</hi> for ſending him ſo many Parliament Saints to feaſt with me at ſeverall times, up<g ref="char:EOLhyphen"/>on whom they beſtowed many good ſuites of cloaths, with ſhirts which had been Surpleſes, and borrowed of Sir <hi>John</hi> the pariſhe Prieſt, to keepe the skinne of the Saints from wollen, beſides Ladys ſmocks, aprons, and handkerchers, which they borrowed without the conſent of the owner, and tranſlated them into bands, cuffes, and boote-hoſe-tops, and if you will not believe me goe and ſearch his wardrope.</p>
+            <p>Next I do appoint that well willer to murder, and ſonne of Sedition and treaſon <hi>John Warner</hi> Uſher of my hall to walke before my gueſts at the funerall, in his Gowne of Crimſon co<g ref="char:EOLhyphen"/>lour, becauſe I know he loves a garment dyed in bloud better then a white Surples, and ſince his imployment will be great, I doe appoynt him three Deputyes, men of his owne temper and Religion, whoſe names I ſhall give you, <hi>Foulkes, Wol<g ref="char:EOLhyphen"/>laſton,</hi> and <hi>Andrewes,</hi> pritty men, ſerviceable, and well ſeene in ſuch imployment, and becauſe they may do it with more ſafety, I do appoint all the braud headed Citizens (but eſpe<g ref="char:EOLhyphen"/>cially thoſe which have the ſpirit, and can unfold the Scripture for three howers together) to attend upon me that day with their mouthes full of the ſpirit, their hearts full of revelation, and their hands full of blood, to ſlat all oppoſers in the face with either ſpirit, revelation or blood, that ſo Juſtice may bee done on their favours, as that ſhe divine Mrs. <hi>Lambe,</hi> very me<g ref="char:EOLhyphen"/>thodically called them, when ſhee was in her two handed reve<g ref="char:EOLhyphen"/>lation
+<pb n="5" facs="tcp:34433:3"/>at Dukes place, upon the firſt day of the weeke, ſome three weekes ſince at a meale mans houſe.</p>
+            <p>Next I doe appoint that juſtler of the Peace, who lives at the Beare by the Bridge foot, the Yeoman of my Wineſeller, whoſe drawing and ſpirituall adminiſtration of it, will infuſe ſuch holineſſe into the cup, that if a Saul be drunke with it, hee may lie with his neighbours wife, or his owne mayds, or his owne daughter, as Lot did with his, and commit no ſinne: and if a childe ſhould chance to be begot by this meanes, it is no great matter, it is but a babe of grace, and came of the ſeede of the faithfull, and God ſees no ſin in Iſrael, nor no tranſgreſſion in Jacob, as was very ſpiritually held out by that two handed preacher of the goſpell Mr. Nonſence Kiffin, upon the Lords day in Coleman ſtreet.</p>
+            <p>Next I doe appoint my old ſeaſoned ſonne of ſedition Col. <hi>Pride,</hi> to be Yeoman of my beere ſeller; a man well ſeene in beere and ale if the Welſh doe not cheate me of his ſervice, but I feare me if they doe they will take him for ſome Hog fed very high with graines, he ſmells ſo ſtrongly on them; if he comes home he will not be a graine too light for my ſonne <hi>Gregory.</hi>
+            </p>
+            <p>Next I doe appoint that Butcher <hi>Rainsborow</hi> Yeoman of my pantry, becauſe he was allwayes bred in a Scullery at <hi>Hull,</hi> or at Sea, and knowes very well how to cubberd up victuals very well, and now ſhould the Houſe but turne Cooke as they have beene Butchers for this ſeven yeares, he would be ſure to cheat the broken bread and meat-men, of who the Houſes in their little charity could afford the poore priſoners; therefore I do not much care if I offer a challenge betwixt Mariot of Grays-Inne and him, being both men of tall ſtomacks.</p>
+            <p>Next I doe appoynt that veſſell of dreeping hogges head of tallow, that bundle of greaſe, <hi>Whaley,</hi> to be the Yeoman of my ſcullery, for his wife and he very well knowe how to ſell and cry Kitchingſtuffe, and truely it feares me you will ſee him and his wife at their old trade againe; the wife with a tub, and he with a club or goad driving ſwine to the markets; but my ſon <hi>Gregory</hi> ſweares hele whip him about the pig market ere long.</p>
+            <p>Next I doe appoynt that hell-hound of <hi>Pluto,</hi> that child of
+<pb n="6" facs="tcp:34433:4"/>the Divell, that bundle of Rebellion, that parcell of perfidi<g ref="char:EOLhyphen"/>ouſneſſe, that Canniball for cruelty, <hi>Hammon,</hi> Steward of my houſe, who doth not care to ſell his God, poyſon his King, de<g ref="char:EOLhyphen"/>voure Kingdomes, breake truſts, diſregard promiſes, and ſpit in the face of a good conſcience.</p>
+            <p>Next I doe appoynt <hi>John Browne</hi> and <hi>Henry Elſinge</hi> Clearks of my Kitchen, which all the Kingdome knowes are very well practiſed in the rules of addition, having ſtudied it this ſeaven yeeres, being very confident they will keepe accounts as well to pleaſe me, as they have for the now diſeaſed Parliament; I am ſo wel conceited on them, that had the Parliament but voted they themſelves had never been borne of a woman, they would have believed them, and ſet their hands to it.</p>
+            <p>Next I doe appoynt that lumpe of lewdneſſe, that ſcum of covetouſneſſe, that liſt of a Taylor, whoſe yard was too ſhort for his neighbours wife, Mrs. what ſhall I call her, he knowes who I meane, the Haberdaſhers wife on Snow hill; you Mr. <hi>Coxe,</hi> you I ſay ſhall be Yeoman of my Roabes, being you have been my ſonne <hi>Gregories</hi> chapman for many cloathes ſhif<g ref="char:EOLhyphen"/>ted at my Pallace at Tyburne, before you were Treaſurer of Ha<g ref="char:EOLhyphen"/>berdaſhers hall.</p>
+            <p>Next I doe appoynt my long Attendant <hi>Gregory</hi> my Cooke, and doe leave him to his diſcretion to dreſſe, lanch, carve, or ſet out head, bowells, heart, liver, armes, ſhoulders, back, breaſt, loynes, thighs, legges and feet, to be ſafe powdred, pickled, ſtewed, roſted, ſodden, broyled, or hanged up of all my Parlia<g ref="char:EOLhyphen"/>ment men, but eſpecially of <hi>Mancheſter, Say, Wharton, Len<g ref="char:EOLhyphen"/>thall, Mildmay, Corbet, Scot, Martin, Perpoint, Weaver, E<g ref="char:EOLhyphen"/>veling. Selden;</hi> but for <hi>Haſlerigge</hi> I need make no great pro<g ref="char:EOLhyphen"/>viſion for or with him, ſince <hi>Jockey</hi> will provide him a Cooke in <hi>Edenburrough</hi> very ſhortly, will dreſſe him up with Wood<g ref="char:EOLhyphen"/>cock ſauce; but I pray thee have a care and ſee theſe well dreſt that the Kingdome may ſay they have not parted with their wealth and blood, but have ſeen ſomething for it.</p>
+            <p>Next I doe appoint that murder King, that impudent arch Traytor, that ſtall bird Cobler, that quinteſſence of helliſhnes that child of perdition, that ſonne of Belial, that ſinner again<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="7" facs="tcp:34433:4"/>the holy Ghoſt, that Antitrinitarian, <hi>Rolfe,</hi> who is mine without mercy, and the Divells decreed of old, before the cre<g ref="char:EOLhyphen"/>ation, and is to go to hell without baile or mainprize, to be my Meſſenger to go betwixt hell and my hall to ſee how the Parli<g ref="char:EOLhyphen"/>aments adherents doe the Divels worke, and what ſtore of them doe intend repentance, and to carry letters for the Divels in hell to all his deare ſonnes upon earth, and when all the Re<g ref="char:EOLhyphen"/>bell Faction are either gone to the Divell, or repented and are gone to God Almighty; I doe aſſigne him the labour of <hi>Siſi<g ref="char:EOLhyphen"/>phus,</hi> the torment of <hi>Tantalus,</hi> and no other comfort but what a wounded conſcience can adminiſter unto ſuch a wretch, nor no other company but the infernall ſpirits; who will watch that black ſoule, which is more blacke then any ſoule which he put upon ſhoe in his life?</p>
+            <p>Next I doe appoynt <hi>Patience, Kifen, Lambe, Goodwine,</hi> and <hi>Dell,</hi> my Chaplaines at ordinary to preach to all the congrega<g ref="char:EOLhyphen"/>tion that belong to me, being very ſure that the whole Army is mine, and will come to me in ſpite of Loyalty and true obedi<g ref="char:EOLhyphen"/>ence: Therefore to confirme them the Divells and mine, I charge all who belong to the Pope, the Divell, Antichriſt, and me, to heare and practiſe their doctrine, as they will anſwer it to me and my ſonne <hi>Gregory;</hi> and for all my Chaplaines ex<g ref="char:EOLhyphen"/>traordinary, as <hi>Peeters, Love, Burges, Sedgwicke,</hi> and <hi>Caſe;</hi> I hope they will not be backward in doing me duty, ſince they have ſuch good quarter already provided from them with my Couſen <hi>Pluto;</hi> and for <hi>Peeters</hi> he is made <hi>Pims</hi> Chaplaine, whenſoever he will but call to me for a paſſe, I have promiſed my ſonne <hi>Gregory</hi> ſhall ſet both his hands that he may go with<g ref="char:EOLhyphen"/>out let or hinderance, and for <hi>Patience</hi> my Lord <hi>Brookes</hi> wants him, and is very angry that his coach man doth not come after him to hell, ſince he hath a full congregation of Parliament Saints there ready, and for <hi>Hambden</hi> and <hi>Stroud</hi> they cannot chuſe but ſtand in neede of them, I feare they cannot get an In<g ref="char:EOLhyphen"/>dependent Prieſt in all their Countrey of hell; but I believe great <hi>Henderſon</hi> of Scotland ſerves them ſometime with ſpun<g ref="char:EOLhyphen"/>fuls of Presbytery, <hi>Burton</hi> and <hi>Burrowſe</hi> being really ſworne <hi>Pluto's</hi> Chaplaines cannot be ſpared from his Table.</p>
+         </div>
+         <div type="speech">
+            <pb n="8" facs="tcp:34433:5"/>
+            <head>Tyburnes ſpeech to the ſtanders by at the Funerall of the Parli<g ref="char:EOLhyphen"/>ament, as followeth.</head>
+            <opener>
+               <salute>GEntlemen,</salute>
+            </opener>
+            <p>I have a word or two to ſay to you ſtanders by, by the way of admonition, which is, that you take heed of falſe Prophets, who will leade you into blinde zeale, which when you are ſo, it is like mettle in a blinde horſe, you ruſh u<g ref="char:EOLhyphen"/>pon all manner of ſinne as a horſe doth into the battle, not re<g ref="char:EOLhyphen"/>garding what ſinne you commit, and the Divell goeth about like a roaring Lyon, ſeeking whom he may devoure, and cares not which way he hath you, ſo he have you by hypocritical pro<g ref="char:EOLhyphen"/>feſſion of Religion, as well as by drunkenneſſe, ſwearing, whoring, and Murdering; and I muſt ſay to you, the Divell doth never more deceive, then when he appeares like an Angel of light: Take heed leſt Religion eate up your Loyalty as it hath done all thoſe which you are come to ſee interred, it is ma<g ref="char:EOLhyphen"/>ny of the Prieſts have brought them to this. God the Sonne commands to put up the ſword when it was drawne in paſſion, and they command to draw the word when there is neither Religion, Law, nor reaſon to defend them in this their helliſh deſignes; they are the Divels children whoſe worke they doe, and now I admoniſh you to take warning by theſe. Rebell not againſt your God, your King, your Countrey, upon any pre<g ref="char:EOLhyphen"/>tence whatſoever, leſt yee likewiſe periſh, which the God of mercy keepe you from, ſo prayes Tyburne.</p>
+            <q>
+               <l>All you Loyall Subjects which doe ſee</l>
+               <l>The ruines of Rebellion, treaſon, perjury,</l>
+               <l>Laugh, rejoice, praiſe God and ſing,</l>
+               <l>When theſe are hanged, you'le have your King</l>
+               <l>To governe you with Peace, plenty, joy,</l>
+               <l>When no Domeſticke, neither foraigne Enemy</l>
+               <l>Shall hurt your ſelves, your Wife or barnes,</l>
+               <l>God will you keepe from all ſuch harmes.</l>
+            </q>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
